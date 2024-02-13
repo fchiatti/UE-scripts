@@ -16,4 +16,4 @@ Examples:
 - `ue` to run the project (without debugger)
 - `ue -b` to compile and, if the compilation passes, to run the project immediately afterwards.
 - `ue -g` to run in standalone.
-- `ue -t "string"` to run all the tests whose name contains `string`. Also add `-b` the compilation is required.
+- `uet "string"` to run all the tests whose name contains `string`. Also add `-b` the compilation is required.
